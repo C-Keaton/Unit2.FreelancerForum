@@ -1,0 +1,38 @@
+body {
+  background-color: blanchedalmond;
+  color: black;
+  border-color: blueviolet;
+  margin: 10px
+}
+div {
+  padding: 10px;
+  border: 10px solid black;
+  height: 90%;
+  margin: 25px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#form {
+  display: flex;
+  padding-right: 100;
+}
+
+button {
+  background-color: crimson;
+  color: white;
+}
+
+button:hover {
+  background-color: green;
+}
+
+#FreelancersList {
+  background-color: pink;
+}
+
+ul {
+  background-color: pink;
+}
